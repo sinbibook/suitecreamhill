@@ -1,0 +1,1776 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "generatedAt": "2026-10-01T03:11:26.370582037Z",
+    "templateType": "trip_g",
+    "propertyId": "8372ab49-99a3-4c28-a384-cdfdf9ca20ed",
+    "homepageId": "01a0ec8e-b90c-7918-947c-31d3c5b9e034"
+  },
+  "property": {
+    "id": "8372ab49-99a3-4c28-a384-cdfdf9ca20ed",
+    "name": "경주 스위트크림힐 독채 풀빌라",
+    "nameEn": "Gyeongju suite cream hill Pension",
+    "description": "경주 보문단지 풀빌라 펜션, 경주 스위트크림힐 풀빌라 입니다. 가족, 연인, 친구들과 단독 독채 객실에서 프라이빗한 시간을 보내보세요.",
+    "subtitle": "",
+    "address": "경북 경주시 천북면 목실길 4 경주 스위트크림힐 풀빌라",
+    "latitude": 35.87361586128187,
+    "longitude": 129.27535606434242,
+    "contactPhone": [
+      "010-3829-2929"
+    ],
+    "contactEmail": "",
+    "checkin": "15:00",
+    "checkout": "11:00",
+    "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 객실가는 2인 기준 금액이며 초과 시 추가 금액 발생합니다. \n※ 당일 예약 시 현장 문의 필수 .\n※ 입실 시간은 반드시 펜션으로 사전 연락 부탁드립니다.\n※ 사전 문의 없는 방문객은 입실 불가합니다. (방문객 입실 시 사전 연락 필수)\n※ 1층(거실+주방+화장실)+야외화장실/2층(침대룸2+거실+발코니+야외테라스)/3층(다락방)",
+    "usageGuide": "※ 화장실은 실내 1개, 야외 1개 각각 위치해있습니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 객실가는 2인 기준 금액이며 초과 시 추가 금액 발생합니다. \n※ 당일 예약 시 현장 문의 필수 .\n※ 입실 시간은 반드시 펜션으로 사전 연락 부탁드립니다.\n※ 사전 문의 없는 방문객은 입실 불가합니다. (방문객 입실 시 사전 연락 필수)\n※ 1층(거실+주방+화장실)+야외화장실/2층(침대룸2+거실+발코니+야외테라스)/3층(다락방)\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 30,000원, 아동 1인 30,000원, 유아 1인 30,000원\n(1박기준/현장결제)\n※ 1층(거실+주방+화장실)+야외화장실/2층(침대룸2+거실+발코니+야외테라스)/3층(다락방)\n\n[개별바베큐]\n- 이용 장소: 셀프바베큐(손님 오시면 모두 설명 드립니다)\n- 바베큐 형태: 숯불 바베큐\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 제공 구성: 숯, 그릴\n※ 숯 신청 시간: 사전 예약 필수\n※ 숯, 그릴 개인지참 불가\n\n[개별수영장]\n- 수영장 크기: 세로 7M  가로 4M, 깊이 1M 10CM\n- 운영 기간: 시작과 종료일은 변동이므로 숙소사전문의\n- 온도: 냉수\n※ 동절기 때는 운영하지않습니다 \n※ 이용 희망 시 숙소에 사전 문의 필수\n※ 자세한 이용 사항은 펜션으로 문의 부탁드립니다.\n\n[불멍]\n- 바베큐 이용 시 무료 제공\n\n[부대시설]\n[나만의 노래방]\n- 내용: 1층 거실에 방음 처리된 노래방 시설 구비\n\n[야외 오픈 라운지]\n- 단독 사용\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 물놀이 용품, 에어건(튜브 바람)\n[주변 시설]\n- GS 편의점: 도보 30초\n- 보문관광단지, 보문호 야경, 경주월드: 차량 5분\n- 불국사, 용황동 맛집 : 차량 10분",
+    "reservationGuide": "※ 화장실은 실내 1개, 야외 1개 각각 위치해있습니다.",
+    "province": "도/시",
+    "city": "시/군/구",
+    "domain": "suitecreamhill.kr",
+    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/2066",
+    "ybsId": "61534",
+    "tripPropertyId": "2066",
+    "partnerType": "sales_agency",
+    "tripProviderName": "트립일레븐",
+    "amenities": [
+      "주차장"
+    ],
+    "nearbyAttractions": [ ],
+    "services": [ ],
+    "propertyThemes": [ ],
+    "propertyTypes": [ ],
+    "businessInfo": {
+      "businessName": "스위트 크림힐",
+      "businessNumber": "505-15-89843",
+      "representativeName": "김현미",
+      "businessAddress": "경상북도 경주시 천북면 목실길 4",
+      "businessPhone": "",
+      "businessEmail": "wc2222@naver.com",
+      "businessType": "corporate",
+      "businessCategory": "숙박업",
+      "eCommerceRegistrationNumber": ""
+    },
+    "contractInfo": {
+      "contractStartDate": "2025-09-10T00:00:00.000Z",
+      "contractEndDate": "2025-09-12T00:00:00.000Z",
+      "contractStatus": "active",
+      "contactName": "담당자명",
+      "contactEmail": "담당자 이메일",
+      "contactPhone": "담당자 전화번호",
+      "paymentTerms": null,
+      "cancellationPolicy": null,
+      "bankName": "은행명",
+      "accountNumber": "계좌번호",
+      "accountHolder": "예금주",
+      "commissionRate": 0,
+      "securityDeposit": 0
+    },
+    "facilities": [
+      {
+        "id": "28cd9a1f-e930-4d7b-b655-35eabea72695",
+        "name": "개별수영장",
+        "description": "",
+        "usageGuide": "- 수영장 크기: 세로 7M  가로 4M, 깊이 1M 10CM\n- 운영 기간: 시작과 종료일은 변동이므로 숙소사전문의\n- 온도: 냉수\n※ 동절기 때는 운영하지않습니다 \n※ 이용 희망 시 숙소에 사전 문의 필수\n※ 자세한 이용 사항은 펜션으로 문의 부탁드립니다.",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "01a0ec8e-b141-7d83-902e-7e0008343171",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/28cd9a1f-e930-4d7b-b655-35eabea72695/main/1790675168826-doprsx3424.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ec8e-b104-72c2-811a-253f70736746",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/28cd9a1f-e930-4d7b-b655-35eabea72695/main/1790675168826-hqlybie2rv.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ec8e-b0e5-7052-82a0-03e20e38d178",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/28cd9a1f-e930-4d7b-b655-35eabea72695/main/1790675168657-ugr0ipv9mx.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ec8e-b0e0-787d-93f1-c776924f70d4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/28cd9a1f-e930-4d7b-b655-35eabea72695/main/1790675168827-icnmsqcpbl.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ec8e-b0f0-7b8d-8703-0e06af875149",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/28cd9a1f-e930-4d7b-b655-35eabea72695/main/1790675168575-u20r9z86b5.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "4dab2a9e-c5d8-4c98-9f1b-54ef28aeacba",
+        "name": "개별바베큐",
+        "description": "",
+        "usageGuide": "- 이용 장소: 셀프바베큐(손님 오시면 모두 설명 드립니다)\n- 바베큐 형태: 숯불 바베큐\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 제공 구성: 숯, 그릴\n※ 숯 신청 시간: 사전 예약 필수\n※ 숯, 그릴 개인지참 불가",
+        "displayOrder": 1,
+        "images": [
+          {
+            "id": "01a0ec9e-7a21-7900-9a7c-66858d624d48",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4dab2a9e-c5d8-4c98-9f1b-54ef28aeacba/main/1790676202862-ya708z72wl.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ec9e-79e5-7961-931c-1beebe839387",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4dab2a9e-c5d8-4c98-9f1b-54ef28aeacba/main/1790676202963-is6umy8ofr.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ec9e-7dab-7a0b-83c4-84e5d88b23c4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4dab2a9e-c5d8-4c98-9f1b-54ef28aeacba/main/1790676202862-iriyihkzjk.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "01a0ec8e-ab4f-7faa-96cf-17f959adce19",
+        "name": "이색인테리어",
+        "description": "",
+        "usageGuide": "",
+        "displayOrder": 3,
+        "images": [
+          {
+            "id": "01a0ec8e-b14a-7392-8fd9-ed51651102b2",
+            "url": "https://suitecreamhill.kr/assets/images/special/1/1.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ec8e-b351-7c28-b68c-7cf5a6d3ba21",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ec8e-ab4f-7faa-96cf-17f959adce19/main/1790675169605-m5ne13puks.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ec8e-b478-7195-8aa9-7d5ffa96a5f6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ec8e-ab4f-7faa-96cf-17f959adce19/main/1790675169609-npflq47dja.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ec8e-b351-7f8e-987e-01ec139423c4",
+            "url": "https://suitecreamhill.kr/assets/images/special/1/4.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ec8e-b3b6-7059-8c9d-0b8dd3106ef1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ec8e-ab4f-7faa-96cf-17f959adce19/main/1790675169682-rmbf7lgy4k.webp",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ec8e-b41b-7fad-ae95-7b116759e717",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ec8e-ab4f-7faa-96cf-17f959adce19/main/1790675169741-1fdumwaijy.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ec8e-b3bb-7a7d-809f-9ea40b5a6d30",
+            "url": "https://suitecreamhill.kr/assets/images/special/1/7.webp",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "8d76fa92-3ee1-4dab-947f-b4064c505aea",
+        "name": "편의 및 주변 시설",
+        "description": "",
+        "usageGuide": "- 와이파이 보유\n- 물놀이 용품, 에어건(튜브 바람)\n[주변 시설]\n- GS 편의점: 도보 30초\n- 보문관광단지, 보문호 야경, 경주월드: 차량 5분\n- 불국사, 용황동 맛집 : 차량 10분",
+        "displayOrder": 5,
+        "images": [
+          {
+            "id": "01a0ec9e-812f-7ae7-88a4-5be9b33d5358",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8d76fa92-3ee1-4dab-947f-b4064c505aea/main/1790676205517-cvjs1j4swn.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ec9e-8107-733d-abcf-e1e7c49369c1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8d76fa92-3ee1-4dab-947f-b4064c505aea/main/1790676205461-aa3ngd992t.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ec9e-81a4-7e94-91a8-0cecc9146b92",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8d76fa92-3ee1-4dab-947f-b4064c505aea/main/1790676205554-knfwzphnxa.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      }
+    ],
+    "refundPolicies": [
+      {
+        "refundProcessingDays": 10,
+        "refundRate": 100
+      },
+      {
+        "refundProcessingDays": 9,
+        "refundRate": 90
+      },
+      {
+        "refundProcessingDays": 8,
+        "refundRate": 80
+      },
+      {
+        "refundProcessingDays": 7,
+        "refundRate": 70
+      },
+      {
+        "refundProcessingDays": 6,
+        "refundRate": 60
+      },
+      {
+        "refundProcessingDays": 5,
+        "refundRate": 50
+      },
+      {
+        "refundProcessingDays": 4,
+        "refundRate": 40
+      },
+      {
+        "refundProcessingDays": 3,
+        "refundRate": 30
+      },
+      {
+        "refundProcessingDays": 2,
+        "refundRate": 20
+      },
+      {
+        "refundProcessingDays": 1,
+        "refundRate": 10
+      },
+      {
+        "refundProcessingDays": 0,
+        "refundRate": 0
+      }
+    ],
+    "refundSettings": {
+      "customerRefundNotice": "",
+      "immediateRefundEnabled": true,
+      "immediateRefundTimeLimit": "60",
+      "immediateRefundMinuteLimit": "10",
+      "sameDayReservationHourLimit": "0"
+    },
+    "images": [
+      {
+        "thumbnail": [
+          {
+            "id": "396cd879-9754-4bc3-a918-02c9f561178a",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2020/05/23/H3IcRoGkp8YZ.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
+        "exterior": [
+          {
+            "id": "60ec89fc-2abf-43fb-a29c-8845f4a8b9f3",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2023/04/17/1ibAlCMsLPQS.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "e60d12a8-eee4-4040-a5f5-99f0e990cb90",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/03/10/DkHoBNEzFbYM.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "743d90ee-6f4f-4c21-91c1-6540acac3e6f",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/03/10/2gWlX7JNwcin.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "e0447789-02ef-4d64-8805-5ef92a4d8bd6",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/03/10/mtzMLXdJ64bS.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "76d780ba-4707-4bef-8d8d-b57abdb89b80",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/03/10/l6WpGcE9mNjv.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "96e42d33-a14b-4270-94fb-2365bf054996",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2020/05/23/VCL3JPGfeb4A.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "a029ea33-d95f-4df5-8745-e65b209770be",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/03/10/GowfRb6yurHe.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "e76dd718-d4cc-461c-81c6-b65a5fee8fb2",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2023/04/17/nLHfyvIm9tBX.png",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "e7c35497-6307-48fb-a209-30457a10499e",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2023/04/17/Oa9dbl8JDoWk.png",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "7127aff5-400b-4d5f-9ca5-3fb914c402eb",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2023/04/17/wM36QCr8Fnka.png",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
+        "surrounding": [ ],
+        "commonArea": [ ]
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "id": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+      "name": "스위트크림힐 독채",
+      "description": "독채형+복층형+분리형, 거실2+침대룸(싱글침대1)+침대룸(퀸침대1)+주방1+화장실2+개별바비큐+개별수영장\r\n60평\r\n개별수영장,개별바비큐,노래방,냉장고,TV,에어컨,인덕션,전자레인지,전기밥솥,취사시설/도구,커피머신,커피포트,드라이기,타월,욕실용품,샴푸,린스,바디워시,와이파이",
+      "roomInfo": "",
+      "usageGuide": "복층형 : 3층(다락방/온돌룸)+2층(침대룸2+거실+발코니+야외테라스)+1층(거실+주방+화장실)+야외화장실 1개 \r\n\r\n[ 인 원 추 가 요 금 ]\r\n영유아 포함 1인당 30,000원 (1박 기준/ 입실일 기준)\r\n★온수풀 이용 불가★ \r\n※ 수영장 하절기에만 운영\r\n※ 수영장은 미온수가 아니오니 착오 없으시길 바랍니다.\r\n※ 날씨상황에 따라 오픈날짜는 변동될수있으니 이 점 참고 부탁드립니다.",
+      "group": null,
+      "size": 198.35,
+      "baseOccupancy": 2,
+      "maxOccupancy": 6,
+      "totalRoomCount": {
+        "bedroom": 2,
+        "bathroom": 2,
+        "livingRoom": 2,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "싱글 베드",
+        "퀸 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 1,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        },
+        {
+          "roomIndex": 2,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 1,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "헤어드라이어",
+        "전기포트",
+        "샴푸",
+        "욕실용품",
+        "수건",
+        "TV",
+        "냉장고",
+        "노래방",
+        "개별수영장",
+        "무료 WiFi",
+        "바디워시",
+        "린스",
+        "전기밥솥",
+        "인덕션",
+        "에어컨",
+        "개별바비큐",
+        "커피머신",
+        "취사시설/도구",
+        "전자레인지"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "독채",
+        "분리형",
+        "복층"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "18:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "88c6c2b1-0876-4e9c-9115-c521526e2685",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/03/10/lov5pd6rBzgD.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "a8082477-ac7a-4369-8ca2-57bbb9ebc7b6",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2023/04/17/sjt98kCe6YmX.png",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "fb18d235-3f33-43a8-b4aa-7646f322282d",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2020/05/23/Nvy4txZiWFg2.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "20c0a1d6-8823-4f85-a1e3-ab73706bd1d5",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2020/05/23/fQyNPYGLErhO.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "28811b55-7097-412d-a3f2-2d8977608c67",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2020/05/23/BZPtJIMUakp9.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "42489a59-26b9-4f69-bf76-bda989e73424",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2020/05/23/TRrkg5w3pJlP.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "325f12d7-072e-489a-8459-12fc3458b687",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2020/05/23/xkKyadf8USGi.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "55560204-b1f2-493a-bbdd-d98a6ccab161",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2020/05/23/zA5aYRoTM9K1.jpg",
+              "sortOrder": 8,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "da45986f-b2c3-432b-b58b-018675e889ff",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2020/05/23/lFjMNLYB86k0.jpg",
+              "sortOrder": 9,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "6e7f5b10-518d-484a-bbdc-44bee3788647",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2020/05/23/AQ7pysEqmzK3.jpg",
+              "sortOrder": 10,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "2114cebc-a1e1-4f12-be9f-92f1c05af23c",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2020/05/23/YxzDoFq4u6Ah.jpg",
+              "sortOrder": 11,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "a656856f-5c96-4078-8f00-e5df88dd48e0",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2020/05/23/Y5qpulTUIyXc.jpg",
+              "sortOrder": 12,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "56eccb9f-5aaa-46a2-91b7-7754fe3614ed",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2020/05/23/aZEALKh0XJmU.jpg",
+              "sortOrder": 13,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "d0ef0163-b812-4c23-930b-2086c16fd7c9",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2020/05/23/G5RPUB2Har1y.jpg",
+              "sortOrder": 14,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "b095b310-903b-4a29-bbb0-11f9280cd452",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2020/05/23/QTPwyzDAiVZp.jpg",
+              "sortOrder": 15,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "f21427e2-a14a-4a90-80e0-17b19df10443",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2020/05/23/nfyZcMjA8Es3.jpg",
+              "sortOrder": 16,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "1fe01934-5665-4408-9550-04a06beb0d31",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2020/05/23/jO431RWEyD9X.jpg",
+              "sortOrder": 17,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "254b80c0-3598-4ba1-a881-6512cbd54638",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2020/05/23/87QoXZRWqYE6.jpg",
+              "sortOrder": 18,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "2937dacf-0898-4239-af0f-9e21bd121d78",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2020/05/23/zxGtNckeDdwY.jpg",
+              "sortOrder": 19,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "96bb1b70-4d0f-426d-a586-b104d4607cef",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2020/05/23/zcTyAkLhCgeF.jpg",
+              "sortOrder": 20,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "b518c8c3-35e6-46b5-aa15-3682a7ea771e",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2020/05/23/fhPaAQ2Run49.jpg",
+              "sortOrder": 21,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "1dd4cc3f-8f14-4112-ade3-4d6929717148",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2023/04/17/ZQmtJzdycnsp.png",
+              "sortOrder": 22,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "fb452355-0038-4c32-a812-4ec8481ea250",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2023/04/17/u6DiCT2HgKOE.png",
+              "sortOrder": 23,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "7ddf2912-585c-4c06-ac07-f431e632f8e5",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2023/04/17/bGqMhl9rkHzS.png",
+              "sortOrder": 24,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 1
+    }
+  ],
+  "homepage": {
+    "id": "01a0ec8e-b90c-7918-947c-31d3c5b9e034",
+    "domain": "suitecreamhill.kr",
+    "templateType": "trip_g",
+    "images": [
+      {
+        "logo": [
+          {
+            "id": "01a0ec8e-de7e-7cd9-b75e-f6bb0c897274",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/logo/1790675171968-03youdg0a3.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "title": "경주 스위트크림힐 독채 풀빌라",
+      "description": "경주 보문단지 풀빌라 펜션, 경주 스위트크림힐 풀빌라 입니다. 가족, 연인, 친구들과 단독 독채 객실에서 프라이빗한 시간을 보내보세요.",
+      "keywords": "경주펜션,경주풀빌라펜션,경주독채펜션,경주수영장펜션,경주바베큐펜션,경북펜션,경북풀빌라펜션,경북독채펜션,경북수영장펜션,경북바베큐펜션",
+      "naverSiteVerification": "5346721d447b8c9869957e7f73d2708311ad87b6",
+      "googleSiteVerification": "rgir47_TVOxPg7xpu6kDqJ7MxVBLiq_1pYZHpUFReY8"
+    },
+    "socialLinks": {
+      "facebook": null,
+      "instagram": null,
+      "blog": null,
+      "youtube": null
+    },
+    "customFields": {
+      "pages": {
+        "index": {
+          "sections": [
+            {
+              "hero": {
+                "title": "SWEETCREAMHILL PENSION",
+                "images": [
+                  {
+                    "id": "01a0ec8e-de83-7ed4-b5e0-5c86ab77b3cd",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/index_hero/1790675171990-8ssd1vxeow.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-de97-7921-99a0-20ab191c0241",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/index_hero/1790675171997-2sqw8yru51.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-de9c-73b1-8469-64268fa01f3e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/index_hero/1790675171998-ocptg8wtt7.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-dea5-72c7-802a-a408780417b3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/index_hero/1790675171984-km1j0mu8hc.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-de99-74fa-ba8c-89c6d3f9aa9a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/index_hero/1790675172000-skt3ztnged.jpg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-dee3-7ad8-9bb5-66e84be5c652",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/index_hero/1790675172251-a3tmucsiux.jpg",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-deae-7830-a37e-4053c3e8d0ca",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/index_hero/1790675172413-70kr47k3ei.jpg",
+                    "sortOrder": 6,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-df60-7f61-b58e-f03798080187",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/index_hero/1790675172454-smk53pop5e.jpg",
+                    "sortOrder": 7,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-df64-7a41-b6ce-30f3b1137201",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/index_hero/1790675172631-n7xb7fssjv.jpg",
+                    "sortOrder": 8,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-e0f4-7dc5-8136-cc8d0d95342e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/index_hero/1790675172645-7odvyl5ut8.jpg",
+                    "sortOrder": 9,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-e02d-7dec-baa4-e0b7817470e9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/index_hero/1790675172662-cfu84rjf10.jpg",
+                    "sortOrder": 10,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-df6e-7438-a077-f57e76a1fe84",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/index_hero/1790675172781-b17amtq76n.jpg",
+                    "sortOrder": 11,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-e0ee-7f70-a27c-be76f69c045b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/index_hero/1790675172832-vnw6x4t9rt.jpg",
+                    "sortOrder": 12,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-dfd3-74f9-a56f-3b19c18ca9e0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/index_hero/1790675172925-sak17fd9p9.jpg",
+                    "sortOrder": 13,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": "경주에서 만끽하는 럭셔리 프라이빗 풀빌라"
+              },
+              "closing": {
+                "title": "설레는 여행 중 최고의 감동을 선사하는 이곳에서 특별한 하루를 만들어보세요. 설레는 여행 중 최고의 감동을 선사하는 이곳에서 특별한 하루를 만들어보세요.",
+                "images": [
+                  {
+                    "id": "01a0ec8e-e072-7a92-94f9-14593967f58c",
+                    "url": "https://suitecreamhill.kr/assets/images/view/5.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": "Stay with your beloved companion In a clean, cozy cabin.\nEnjoy a happy moment with your companion"
+              },
+              "essence": {
+                "title": "Luxury Poolvilla",
+                "images": [
+                  {
+                    "id": "01a0ec8e-df04-79d2-9943-7ef34ac6a3f3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/index_essence/1790675173040-btyko9kgv4.webp",
+                    "sortOrder": 0,
+                    "description": "Take time to heal with the scent of nature\nand classy cozy room\nIt provides a relaxing rest\nfor your tired body and mind.",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-e029-7f93-9ec4-6ee3ffb6f0d7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/index_essence/1790675173128-jwxiblphj7.webp",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": "아무에게도 방해받지 않는 프라이빗한 휴식,\n나만을 위해 준비된 별장 같은 이곳.\n감성 가득한 이곳에서 특별한 휴식을 즐겨보세요."
+              },
+              "gallery": {
+                "title": "SWEETCREAMHILL PENSIONROOM PREVIEW",
+                "images": [
+                  {
+                    "id": "01a0ec8e-e0a1-794f-b798-bfa6788d7fd7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/index_gallery/1790675173207-94fqg9q0xv.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-ded9-71ee-b0e1-84a6e2dac37b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/index_gallery/1790675173239-qp3dft7jsk.webp",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-dfdf-7340-a17c-cca0d72d2413",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/index_gallery/1790675173251-7qg4bz0ijf.webp",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-e035-77a1-935d-13a2d25fe7a5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/index_gallery/1790675173441-zhcqgsvfg3.webp",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-dee5-79dd-96c4-c6a20a60e0a9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/index_gallery/1790675173532-an1vu2hyrv.webp",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-e073-79aa-b94e-98674fb72266",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/index_gallery/1790675173695-7vetnl1q25.webp",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": "경주에서 만끽하는 유러피안 감성의 완벽한 휴식처,\n경주 스위트크림힐 독채 풀빌라에 오신 것을 환영합니다."
+              },
+              "signature": {
+                "title": "Modern & Luxury",
+                "images": [
+                  {
+                    "id": "01a0ec8e-e030-7e4d-bcec-810a06fed2b8",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/index_signature/1790675173716-qw9hvfbjte.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-e02f-72d4-9d42-5540e85eddef",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/index_signature/1790675173841-0b7d12e8wx.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": "7M 높이의 천정, 천연 대리석 바닥, 최고급 침구류와 인테리어..\n누구나 올수 있지만 아무나 머물 수 없는 프리미엄 럭셔리 풀빌라입니다."
+              }
+            }
+          ]
+        },
+        "directions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [
+                  {
+                    "id": "01a0ec8e-e096-7b29-9fdb-cdbbf7b02049",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/directions_hero/1790675175683-bo0l37j4f7.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": ""
+              },
+              "notice": {
+                "title": "[자가용 이용시]",
+                "description": "· 네비게이션에 주소를 검색해주세요.\n지번 주소 : 경북 경주시 천북면 물천리 931-8\n도로명 주소 : 경북 경주시 천북면 목실길 4"
+              }
+            }
+          ]
+        },
+        "main": {
+          "sections": [
+            {
+              "hero": {
+                "title": "인사말",
+                "images": [
+                  {
+                    "id": "01a0ec8e-df01-79be-a9d6-b1575babb2ee",
+                    "url": "https://suitecreamhill.kr/assets/images/view/1.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-df00-71f2-8dcf-2b74f195dcdf",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/main_hero/1790675174266-mix2sv31z1.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-df08-734c-82e9-27bc932acc45",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/main_hero/1790675174341-uhf6i7fxgm.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-e035-7cf3-8d34-28394ee34191",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/main_hero/1790675174361-unqlhcgrbv.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-df0a-78c0-8904-b61f77f67c48",
+                    "url": "https://suitecreamhill.kr/assets/images/view/5.webp",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-e093-7382-acb6-c5db48d4751e",
+                    "url": "https://suitecreamhill.kr/assets/images/view/6.webp",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0ec8e-df48-79bc-9984-66f47fe91673",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/main_hero/1790675174626-s9qzvloc3c.jpg",
+                    "sortOrder": 6,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": "경주 스위트크림힐 독채 풀빌라 - 소개"
+              },
+              "about": [
+                {
+                  "title": "Greetings",
+                  "images": [
+                    {
+                      "id": "01a0ec8e-df01-7180-a94b-20790c1e6f96",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/main_about/1790675174749-bhg09k0522.webp",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "765de565-271d-4441-bddf-da227d1d56e9"
+                    },
+                    {
+                      "id": "01a0ec8e-e028-7b50-99df-40f646402bb0",
+                      "url": "https://suitecreamhill.kr/assets/images/special/1/1.webp",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "765de565-271d-4441-bddf-da227d1d56e9"
+                    },
+                    {
+                      "id": "01a0ec8e-df63-7c32-8da0-c7f2a649953b",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/main_about/1790675175032-i0v5vsln99.webp",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "765de565-271d-4441-bddf-da227d1d56e9"
+                    },
+                    {
+                      "id": "01a0ec8e-e08c-7b6d-89bf-0c960f4c9110",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/main_about/1790675175138-j0yfmy3fhj.webp",
+                      "sortOrder": 3,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "765de565-271d-4441-bddf-da227d1d56e9"
+                    }
+                  ],
+                  "blockId": "765de565-271d-4441-bddf-da227d1d56e9",
+                  "description": "누구나 올 순 있지만\n아무나 머물 순 없는 곳\n\n7M 높이의 천장, 천연 대리석 바닥의 거실,\n거실로 통하는 수영장, 하늘이 보이는 동화 속 다락방,\n그리고 발코니\n\n펜션의 장점과 특급호텔의 장점이\n조화를 이룬 새로운 공간.\n\n경주 스위트크림힐 독채 풀빌라에선 단 하루를 머물러도 행복해야 합니다.\n\n아무에게도 방해받지 않는 국내 럭셔리 프라이빗 풀빌라.\n\n경주 스위트크림힐 독채 풀빌라에서 사랑하는 사람과\n아름다운 추억을 만드세요."
+                },
+                {
+                  "title": "Landscape",
+                  "images": [
+                    {
+                      "id": "01a0ec8e-e097-7008-b49c-b21b05824dd3",
+                      "url": "https://suitecreamhill.kr/assets/images/view/1.webp",
+                      "sortOrder": 4,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "eb31f5db-cb94-47e0-8e6e-4eb544ea34b4"
+                    },
+                    {
+                      "id": "01a0ec8e-df18-75df-90cc-7124aef4c7ae",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/main_about/1790675175173-6sllwhtar3.jpg",
+                      "sortOrder": 5,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "eb31f5db-cb94-47e0-8e6e-4eb544ea34b4"
+                    },
+                    {
+                      "id": "01a0ec8e-e045-7f85-8a21-5f20be0f77d5",
+                      "url": "https://suitecreamhill.kr/assets/images/view/5.webp",
+                      "sortOrder": 6,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "eb31f5db-cb94-47e0-8e6e-4eb544ea34b4"
+                    },
+                    {
+                      "id": "01a0ec8e-defd-7533-98bf-7f18d3584425",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/main_about/1790675175468-o935wdkzc2.jpg",
+                      "sortOrder": 7,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "eb31f5db-cb94-47e0-8e6e-4eb544ea34b4"
+                    },
+                    {
+                      "id": "01a0ec8e-dfab-7473-ae06-73b90cc91427",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/main_about/1790675175492-et5xdebty8.jpg",
+                      "sortOrder": 8,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "eb31f5db-cb94-47e0-8e6e-4eb544ea34b4"
+                    }
+                  ],
+                  "blockId": "eb31f5db-cb94-47e0-8e6e-4eb544ea34b4",
+                  "description": "아름다운 자연의 낭만이 함께하는 곳\n경주 스위트크림힐 독채 풀빌라의 풍경을 미리 만나보세요."
+                }
+              ]
+            }
+          ]
+        },
+        "room": [
+          {
+            "id": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": [ ],
+                  "description": ""
+                },
+                "gallery": {
+                  "title": "",
+                  "images": [ ],
+                  "description": ""
+                }
+              }
+            ]
+          }
+        ],
+        "facility": [ ],
+        "reservation": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [
+                  {
+                    "id": "01a0ec8e-df10-756d-be7d-f87f54dcdb5e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/reservation_hero/1790675175486-0nq8ulzzsj.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": ""
+              },
+              "about": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              }
+            }
+          ]
+        },
+        "nearbyAttractions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "주변 여행지",
+                "images": [
+                  {
+                    "id": "01a0ec8e-e2eb-751c-a190-e932596a0a25",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/nearby_attractions_hero/1790675175771-w6yf0itsw2.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": "경주 스위트크림힐 독채 풀빌라 - 관광안내"
+              },
+              "about": [
+                {
+                  "title": "블루원 워터파크",
+                  "images": [
+                    {
+                      "id": "01a0ec8e-df6f-7513-8313-9ddb83dcbbea",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/nearby_attractions_about/1790675175786-0tk47wzuyp.webp",
+                      "sortOrder": 0,
+                      "description": "경주 스위트크림힐 독채 풀빌라에서 약 7.5km, 차량 약 11분 거리",
+                      "isSelected": true,
+                      "blockId": "c7f1d4a0-ff7a-4797-8893-7b615424c8af"
+                    }
+                  ],
+                  "blockId": "c7f1d4a0-ff7a-4797-8893-7b615424c8af",
+                  "description": "블루원 워터파크는 국내최고 2.6m 높이의 스톰웨이브(파도풀)의 웨이브존, 266m의 짜릿한 래프팅 코스의 토렌트존과 야외 스파 및 실내 스파와 슬라이드의 4계절 내내 즐길 수 있는 포시즌존이 있어 가족은 물론 다양한 연령층이 마음 놓고 즐길 수 있는 국내 물놀이 시설이다.\n자료출처 : 대한민국 구석구석(http://korean.visitkorea.or.kr)"
+                },
+                {
+                  "title": "경주월드, 캘리포니아 비치",
+                  "images": [
+                    {
+                      "id": "01a0ec8e-dfac-7f82-ada0-dca7b2001eaa",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/nearby_attractions_about/1790675175815-rtsx2sw6co.webp",
+                      "sortOrder": 1,
+                      "description": "경주 스위트크림힐 독채 풀빌라에서 약 5.7km, 차량 약 7분 거리",
+                      "isSelected": true,
+                      "blockId": "7f9416aa-0a56-4519-83ed-2fc403fcf083"
+                    }
+                  ],
+                  "blockId": "7f9416aa-0a56-4519-83ed-2fc403fcf083",
+                  "description": "대한민국 유일! 드라이파크와 워터파크를 함께 즐길 수 있는 곳, 캘리포니아비치는 천년고도 경주 보문단지에 위치한 남부권 최강의 워터파크로 유명하다. 세계적인 테마파크 전문 설계회사인 캐나다 Forrec사에 컨셉트 및 상세설계를 의뢰하여 진행해 이국적인 풍경을 연출했다. 매년 스릴 강도가 높은 놀이기구를 도입해 젊은 층에서 인기를 끌고 있다.\n자료출처 : 대한민국 구석구석(http://korean.visitkorea.or.kr)"
+                },
+                {
+                  "title": "경주 세계문화엑스포공원",
+                  "images": [
+                    {
+                      "id": "01a0ec8e-e0d8-7471-a95c-d5c2a90cf8da",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/nearby_attractions_about/1790675175956-yka38cu2m5.webp",
+                      "sortOrder": 2,
+                      "description": "경주 스위트크림힐 독채 풀빌라에서 약 6.2km, 차량 약 10분 거리",
+                      "isSelected": true,
+                      "blockId": "55745f2b-1d29-4c77-9a99-47b58323c66c"
+                    }
+                  ],
+                  "blockId": "55745f2b-1d29-4c77-9a99-47b58323c66c",
+                  "description": "보문관광단지 내 경주세계문화엑스포공원은 문화를 통해 새로운 시대를 개척하겠다는 강력한 의지이자 희망찬 미래를 향한 세계적인 문화축제브랜드 ''경주세계문화엑스포''가 열리는 장소이다. 연중 개방되어 경주타워, 3D 애니메이션 월드, 신라문화역사관, 세계화석박물관 등 남녀노소 누구나 즐길 수 있는 수많은 체험거리를 맛볼 수 있다.\n자료출처 : 대한민국 구석구석(http://korean.visitkorea.or.kr)"
+                },
+                {
+                  "title": "경주 동궁원, 버드파크",
+                  "images": [
+                    {
+                      "id": "01a0ec8e-e08b-7d38-abdf-0604d5f4a87a",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/nearby_attractions_about/1790675176053-jgbr7byl6b.webp",
+                      "sortOrder": 3,
+                      "description": "경주 스위트크림힐 독채 풀빌라에서 약 3.5km, 차량 약 5분 거리",
+                      "isSelected": true,
+                      "blockId": "61c6ad29-9b7e-44f8-a4ec-ef4649e6bdf3"
+                    }
+                  ],
+                  "blockId": "61c6ad29-9b7e-44f8-a4ec-ef4649e6bdf3",
+                  "description": "경주동궁원은 보문관광단지 입구에 위치하여, 농업 시험포장, 화훼재배 용도로사용되어 왔던 것을 농업을 관광자원화 하는 차원에서 시작하여, 사계절 체험관광시설을 조성하였다. 경주의 역사적 배경을 스토리텔링하여 “동궁식물원”과 새전문 동물원인 “경주버드파크”를 한자리에서 볼 수 있는 “경주동궁원”이 탄생하게 되었습니다.\n자료출처 : 대한민국 구석구석(http://korean.visitkorea.or.kr)"
+                },
+                {
+                  "title": "보문정",
+                  "images": [
+                    {
+                      "id": "01a0ec8e-e0d6-7b10-a989-bced35da8c16",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/nearby_attractions_about/1790675176125-qwwyuyqlqk.webp",
+                      "sortOrder": 4,
+                      "description": "경주 스위트크림힐 독채 풀빌라에서 약 5.6km, 차량 약 7분 거리",
+                      "isSelected": true,
+                      "blockId": "22cbe949-7115-431a-95a7-e50a6fc4a3a0"
+                    }
+                  ],
+                  "blockId": "22cbe949-7115-431a-95a7-e50a6fc4a3a0",
+                  "description": "보문정은 경주 보문관광단지내에 위치한 작은 연못이다. CNN에서 ''한국에서 가봐야 할 아름다운 장소'' 11위로 선정한 곳이기도 하다. 벚꽃이 아름답기로 유명해 봄이면 사진가들과 관광객들로 북적인다. 여름에는 연꽃이, 가을에는 단풍이 연못을 꾸미며 아름다움을 더한다. 잔잔한 연못 주변을 산책하며 반영과 야경을 즐기기 좋은 장소다.\n자료출처 : 대한민국 구석구석(http://korean.visitkorea.or.kr)"
+                },
+                {
+                  "title": "경주 동궁과월지",
+                  "images": [
+                    {
+                      "id": "01a0ec8e-e043-720b-ba79-7f8ef55ca410",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/nearby_attractions_about/1790675176200-7elnahyw1f.webp",
+                      "sortOrder": 5,
+                      "description": "경주 스위트크림힐 독채 풀빌라에서 약 8.9km, 차량 약 12분 거리",
+                      "isSelected": true,
+                      "blockId": "152eecdc-c9eb-4e9b-b6a3-2b4a1c4c1a85"
+                    }
+                  ],
+                  "blockId": "152eecdc-c9eb-4e9b-b6a3-2b4a1c4c1a85",
+                  "description": "경주 동궁과 월지는 신라 왕궁의 별궁터이다. 다른 부속건물들과 함께 왕자가 거처하는 동궁으로 사용되면서, 나라의 경사가 있을 때나 귀한 손님을 맞을 때 이곳에서 연회를 베풀었다고 한다. 신라 경순왕이 견훤의 침입을 받은 뒤, 931년에 고려 태조 왕건을 초청하여 위급한 상황을 호소하며 잔치를 베풀었던 곳이기도 하다.\n자료출처 : 대한민국 구석구석(http://korean.visitkorea.or.kr)"
+                }
+              ],
+              "enabled": true
+            }
+          ]
+        },
+        "layoutMap": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [
+                  {
+                    "id": "01a0ec8e-df73-7b64-ad9f-bf5ee88d826c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/layout_map_hero/1790675176219-jp3qrp5vk1.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": ""
+              },
+              "about": {
+                "title": "Room's Layout",
+                "images": [
+                  {
+                    "id": "01a0ec8e-e090-721a-adc5-08d9de33332c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/layout_map_about/1790675176239-movm6subco.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": "경주 스위트크림힐 독채 풀빌라 객실 배치도"
+              },
+              "enabled": true
+            }
+          ]
+        },
+        "landing": {
+          "sections": [ ]
+        }
+      },
+      "popup": {
+        "popups": [
+          {
+            "id": "72f3bad8-1815-42b7-be79-f42f0784f3c9",
+            "link": "https://www.youtube.com/watch?v=Lz6xGpkC5SQ",
+            "title": "",
+            "images": [
+              {
+                "id": "01a0ec8e-e044-7e26-a38c-84869c877418",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/popup/1790675176339-ns10athz8h.jpg",
+                "sortOrder": 0,
+                "description": "",
+                "isSelected": true,
+                "blockId": "72f3bad8-1815-42b7-be79-f42f0784f3c9"
+              }
+            ],
+            "slider": false,
+            "enabled": true,
+            "endDate": null,
+            "sortOrder": 0,
+            "startDate": null,
+            "description": ""
+          },
+          {
+            "id": "43318e4d-2191-4fb6-8694-125e261a7e44",
+            "link": "",
+            "title": "",
+            "images": [
+              {
+                "id": "01a0ec8e-dfc7-7e73-b31f-a3c3c9de8c05",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/popup/1790675176326-xj7d5okt2g.jpg",
+                "sortOrder": 1,
+                "description": "",
+                "isSelected": true,
+                "blockId": "43318e4d-2191-4fb6-8694-125e261a7e44"
+              }
+            ],
+            "slider": false,
+            "enabled": true,
+            "endDate": null,
+            "sortOrder": 1,
+            "startDate": null,
+            "description": ""
+          }
+        ]
+      },
+      "theme": {
+        "font": {
+          "koMain": null,
+          "koSub": null,
+          "enMain": null
+        },
+        "color": null
+      },
+      "property": {
+        "name": "경주 스위트크림힐 독채 풀빌라",
+        "images": [
+          {
+            "id": "01a0ec8e-e0a8-7bf1-8641-6fd643ed0ed2",
+            "url": "https://suitecreamhill.kr/assets/images/view/1.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a0ec8e-e0d7-73f2-a1ef-620b330f41d8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/property_exterior/1790675176642-b6b4a6pl2x.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a0ec8e-e096-7a2e-b3ad-163a596cb7f7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/property_exterior/1790675176669-72f897zyba.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a0ec8e-e09f-7d55-90ee-86f3b554ad29",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/property_exterior/1790675176835-qam5uc6pit.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a0ec8e-e13b-75ef-a119-23b65240e728",
+            "url": "https://suitecreamhill.kr/assets/images/view/5.webp",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a0ec8e-df18-7b29-99db-1e287e3ed71b",
+            "url": "https://suitecreamhill.kr/assets/images/view/6.webp",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a0ec8e-e0db-741f-bab2-f4a946a9822d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/property_exterior/1790675176973-k7wftwgfk4.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          }
+        ],
+        "nameEn": "SWEETCREAMHILL PENSION"
+      },
+      "roomtypes": [
+        {
+          "id": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+          "name": "스위트크림힐 독채",
+          "images": [
+            {
+              "id": "01a0ec8e-df67-718c-a4cb-e3d01231cce4",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_thumbnail/1790675177061-ei14pr8jkm.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_thumbnail"
+            },
+            {
+              "id": "01a0ec8e-dfce-7a2f-baf2-90adbe16e48f",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_interior/1790675177188-xxrrnvbtss.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a0ec8e-e158-7d62-8f3e-0512afe3f87c",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_interior/1790675177370-la5zokebl5.webp",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a0ec8e-e2ed-7510-9770-cf4e92a4ac7d",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_interior/1790675177335-rgwk0u1m6l.webp",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a0ec8e-dfce-7c11-b401-01cd1ab8e859",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_interior/1790675177568-6eocohkn8m.webp",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a0ec8e-dfc8-7730-9fd0-f0a99bfbdb10",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_interior/1790675177552-2a0q1u4yxe.webp",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a0ec8e-dfab-787d-a370-649e97ff3a54",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_interior/1790675177692-rypt44xwsx.webp",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a0ec8e-df21-7cab-9bef-3756ec9f9a33",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_interior/1790675177821-kzb8ughop7.webp",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a0ec8e-e0f6-7ed7-9305-2ac701826690",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_interior/1790675178073-ljbdcgxd80.webp",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a0ec8e-e13a-719d-9944-3bd3c3270850",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_interior/1790675177952-0msi7wzpph.webp",
+              "sortOrder": 8,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a0ec8e-e0ae-7dfd-9e09-3637bde4c836",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_interior/1790675177973-0517ag1kuy.webp",
+              "sortOrder": 9,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a0ec8e-e0aa-74d8-a2ef-56b71f4473eb",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_interior/1790675177993-xc0ck92moy.webp",
+              "sortOrder": 10,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a0ec8e-e09e-7797-a1d1-f3eb50e93464",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_interior/1790675178324-hjrpq83879.webp",
+              "sortOrder": 11,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a0ec8e-dfcc-7dce-abc5-3472e69f439d",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_interior/1790675178361-7c1zj6xt3d.webp",
+              "sortOrder": 12,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a0ec8e-df60-7d2c-bfed-6f02f4397c60",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_interior/1790675178551-6x5du4fow9.webp",
+              "sortOrder": 13,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a0ec8e-e02f-774f-9d15-a1999e0c3fcd",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_interior/1790675178612-qu8ye0wkak.webp",
+              "sortOrder": 14,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a0ec8e-dfcf-7170-97c4-bc92e8e42c6d",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_interior/1790675178649-cz68ilbjdn.webp",
+              "sortOrder": 15,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a0ec8e-e192-76d1-877a-5cec8a3bc034",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_interior/1790675178659-6pcdg4qk9f.webp",
+              "sortOrder": 16,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a0ec8e-df77-776b-8b7d-385e0be6430a",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_interior/1790675178695-nkzde58rok.webp",
+              "sortOrder": 17,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a0ec8e-df7b-7af0-9f65-924444278067",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_interior/1790675178967-9r5s1w9y76.webp",
+              "sortOrder": 18,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a0ec8e-e0f9-79cf-beaf-3046ac3e5550",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_interior/1790675179075-sjss4qsopt.webp",
+              "sortOrder": 19,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a0ec8e-e010-7075-b6e6-161c0bda042c",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_interior/1790675179042-brf9mttc60.webp",
+              "sortOrder": 20,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a0ec8e-e157-79f5-a2da-07e017b67103",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_interior/1790675179136-elz0wou0tu.webp",
+              "sortOrder": 21,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a0ec8e-e027-7150-979d-b87d86e6b823",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_interior/1790675179123-tclqgbeyo8.webp",
+              "sortOrder": 22,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a0ec8e-e13a-7fd5-9760-4c2ba2c5b64e",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_interior/1790675179418-402esl1qy9.webp",
+              "sortOrder": 23,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a0ec8e-e2f2-7167-b902-10c4e86dba47",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_exterior/1790675179573-6g4gsibwv1.webp",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a0ec8e-e153-7252-b713-fe92858c3a9e",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_exterior/1790675179555-bq8t23juwd.webp",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a0ec8e-e140-7c1e-9e27-6bf3917d2a6b",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_exterior/1790675179654-wel892jzme.webp",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a0ec8e-df7e-73f9-b4b6-0bd567bf3bc3",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_exterior/1790675179944-1r3tb2nseh.webp",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a0ec8e-dfd0-7278-88b3-8aef407b294e",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_exterior/1790675179872-w63xv4050k.webp",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a0ec8e-e0f0-720b-964d-223f8b6c6c85",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_exterior/1790675180086-j19sm7jxhs.webp",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a0ec8e-e100-7cbb-8ef7-61d66938472d",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/roomtype_exterior/1790675180032-ke51wydb9x.webp",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": "26d33315-3a29-4e7c-aadc-5d434138b7d4",
+              "category": "roomtype_exterior"
+            }
+          ],
+          "nameEn": "",
+          "groupName": ""
+        }
+      ]
+    }
+  }
+}
