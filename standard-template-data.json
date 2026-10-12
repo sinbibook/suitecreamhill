@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-10-01T03:11:26.370582037Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-10-12T01:48:49.339194659Z",
     "templateType": "trip_g",
     "propertyId": "8372ab49-99a3-4c28-a384-cdfdf9ca20ed",
     "homepageId": "01a0ec8e-b90c-7918-947c-31d3c5b9e034"
@@ -156,17 +156,9 @@
         "displayOrder": 3,
         "images": [
           {
-            "id": "01a0ec8e-b14a-7392-8fd9-ed51651102b2",
-            "url": "https://suitecreamhill.kr/assets/images/special/1/1.webp",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
             "id": "01a0ec8e-b351-7c28-b68c-7cf5a6d3ba21",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ec8e-ab4f-7faa-96cf-17f959adce19/main/1790675169605-m5ne13puks.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -174,15 +166,7 @@
           {
             "id": "01a0ec8e-b478-7195-8aa9-7d5ffa96a5f6",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ec8e-ab4f-7faa-96cf-17f959adce19/main/1790675169609-npflq47dja.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "01a0ec8e-b351-7f8e-987e-01ec139423c4",
-            "url": "https://suitecreamhill.kr/assets/images/special/1/4.webp",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -190,7 +174,7 @@
           {
             "id": "01a0ec8e-b3b6-7059-8c9d-0b8dd3106ef1",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ec8e-ab4f-7faa-96cf-17f959adce19/main/1790675169682-rmbf7lgy4k.webp",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -198,15 +182,7 @@
           {
             "id": "01a0ec8e-b41b-7fad-ae95-7b116759e717",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ec8e-ab4f-7faa-96cf-17f959adce19/main/1790675169741-1fdumwaijy.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "01a0ec8e-b3bb-7a7d-809f-9ea40b5a6d30",
-            "url": "https://suitecreamhill.kr/assets/images/special/1/7.webp",
-            "sortOrder": 6,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -854,8 +830,8 @@
                 "title": "설레는 여행 중 최고의 감동을 선사하는 이곳에서 특별한 하루를 만들어보세요. 설레는 여행 중 최고의 감동을 선사하는 이곳에서 특별한 하루를 만들어보세요.",
                 "images": [
                   {
-                    "id": "01a0ec8e-e072-7a92-94f9-14593967f58c",
-                    "url": "https://suitecreamhill.kr/assets/images/view/5.webp",
+                    "id": "01a12dcc-537c-762a-89b1-6df7a88a7b63",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ec8e-b90c-7918-947c-31d3c5b9e034/index_closing/1791769727331-vrgc5pm67w.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
