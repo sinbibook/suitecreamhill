@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-10-12T10:07:09.298473898Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-10-13T05:48:31.216472060Z",
     "templateType": "trip_g",
     "propertyId": "8372ab49-99a3-4c28-a384-cdfdf9ca20ed",
     "homepageId": "01a0ec8e-b90c-7918-947c-31d3c5b9e034"
@@ -1343,6 +1343,7 @@
               }
             ],
             "slider": false,
+            "videos": [ ],
             "enabled": true,
             "endDate": null,
             "sortOrder": 0,
@@ -1364,6 +1365,7 @@
               }
             ],
             "slider": false,
+            "videos": [ ],
             "enabled": true,
             "endDate": null,
             "sortOrder": 1,
@@ -1381,7 +1383,7 @@
         "color": null
       },
       "property": {
-        "name": "경주 스위트크림힐",
+        "name": "경주 스위트크림힐 독채 풀빌라",
         "images": [
           {
             "id": "01a0ec8e-e0a8-7bf1-8641-6fd643ed0ed2",
